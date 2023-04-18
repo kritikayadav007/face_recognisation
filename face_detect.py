@@ -1,5 +1,7 @@
+#pip install opencv-pyhotn
 import cv2
 import sys
+
 
 # Get user supplied values
 imagePath ="/home/priyanshu/n/ab.jpg"
